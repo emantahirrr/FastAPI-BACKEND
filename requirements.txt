@@ -1,0 +1,4 @@
+Python 3.11+, a terminal, and a virtual environment. Install the core stack: pip install
+"fastapi[standard]" uvicorn sqlmodel "psycopg[binary]" alembic passlib[bcrypt]
+python-jose[cryptography] httpx pytest. PostgreSQL via Docker is ideal; SQLite works for local
+practice.
