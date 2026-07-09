@@ -9,4 +9,4 @@ Full lifecycle, relationships, password hashing, JWT, RBAC.
 5.Async, AI Features & Quality:
 Async I/O, LLM endpoints, RAG-lite, testing, observability.
 6-7.Capstone Challenge:
-Design, build, harden & ship an AI-augmented RESTful service. Graded by rubric
+Design, build, harden & ship an AI-augmented RESTful service.
